@@ -1,5 +1,5 @@
 # JavaScript-Calculator
-TIY Week 3, Project: Build a functioning calculator website using JavaScript
+TIY Week 3, Weekly Project: Build a functioning calculator website using JavaScript
 
 # Build a Calculator
 
