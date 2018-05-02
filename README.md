@@ -28,7 +28,7 @@ This project should be on your Github Account
 Please submit the project with a URL to your Github project
 
 # Mockup
-![mock up screen shot](https://github.com/carlotapearl/JavaScript-Calculator/blob/master/CalculatorMockUp.png)
+![mock up screen shot](https://github.com/carlotapearl/JavaScript-Calculator/blob/master/calculatorMockUp.png)
 
 # Hard Mode
 You should find the above project fairly challenging, however here are extra features you should attempt to add in.
